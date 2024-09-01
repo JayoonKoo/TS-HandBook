@@ -1,3 +1,4 @@
 # TS-HandBook
 
-- The Basics
+1. The Basics
+2. Everyday Types
